@@ -1,0 +1,135 @@
+body{
+	background:#000 ;
+	font-size: 14px;
+}
+
+h1{
+	color: rgb(132 0 66) ;
+	padding:30px;
+	font-weight: 500px;
+
+}
+
+p{
+	font-size: 14px;
+
+}
+
+#main-content{
+	margin: auto;
+	text-align:center ;
+	padding: px;
+	width:60%;
+	background: #fff;
+	height: 80%;
+}
+
+#main-content .hp{
+       color:rgb(128 0 64);
+       margin-top: 10px;
+       opacity: 1pv;
+}
+
+#stars .review{
+	background-color: rgb(221 221 221);
+	padding: 5px;
+	border: 2px solid ponk;
+	border-radius: 8px;
+	width: 90%;
+	margin:auto;
+	margin-bottom: 10px;
+	color: rgb(125 0 67);
+
+} 
+
+
+#stars .Report{
+	background-color: rgb(221 221 221);
+	padding: 5px;
+	border: 2px solid #fff;
+	border-radius: 8px;
+	width: 90%;
+	margin:auto;
+	margin-bottom: 10px;
+	color: rgb(125 0 67);
+}
+
+
+#stars .besttech{
+	background-color: rgb(221 221 221);
+	padding: 5px 20px 5px 20px;
+	padding-bottom: 5px;
+	border: 2px solid ponk;
+	border-radius: 8px;
+	width: 85%;
+	height: 50px;
+	margin:auto;
+	margin-bottom: 10px;
+	color: rgb(125 0 67);
+
+}  
+
+.smith{
+     background-color: rgb(126 0 65);
+     color:#fff;
+     text-align: left;
+     padding: 50px;
+     margin: 15px;
+     margin-top: 40px;
+     border-radius: 5px;	
+}
+
+.smith img{
+	border-radius: 25px;
+}
+
+.smith img,h3{
+	display: inline-block;
+}
+
+.smith span{
+	color:rgb(193 0 67);
+}
+
+.robert{
+	background-color: rgb(126 0 65);
+	color:#fff;
+	text-align: left;
+	padding: 30px;
+	margin: 15px;
+	border-radius: 5px;
+}
+
+.robert img{
+	border-radius: 25px;
+}
+
+.robert img,h3{
+	display: inline-block;
+}
+
+.robert span{
+	color:rgb(193 0 67);
+}
+
+.wallace{
+	background-color: rgb(125 0 65);
+	color: #fff;
+	text-align: left;
+	padding: 30px;
+	margin: 15px;
+	margin-bottom: 40px;
+	border-radius: 5px;
+}
+
+.wallace img{
+	border-radius: 35px;
+}
+
+.wallace img,h3{
+	display:inline-block;
+}
+
+.wallace span{
+	color: rgb(193 0 67);
+}
